@@ -1,6 +1,6 @@
 ---
 title: "First Knit"
-author: "Your Name"
+author: "Miguel Avila"
 output: 
   html_document:
     number_sections: true
@@ -18,7 +18,7 @@ Where did you attend High School, and did you graduate? Compare english class to
   
 ### my answer     
   
-
+I went to Santa Fe High School. I found math easier than English, so my best subject was always math.
      
 
 
@@ -27,14 +27,14 @@ Where did you attend High School, and did you graduate? Compare english class to
 
 ### my answer   
   
-   
+ I have and HP laptop, and it uses windows. I rate myself at about a 4 when it comes to computers. I have WiFi at home.  
 
 ## Others and You?   
 What name do you prefer to be called by your classmates and instructor, if your buddys call you something but you want people in the class to call you something else - what would that be? 
 
 ### my answer     
   
-   
+ I am okay with being called Migo.  
  
 
 
